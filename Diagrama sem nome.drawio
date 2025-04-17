@@ -233,9 +233,6 @@
         <mxCell id="h-vKlQ_6gasID18T72Yb-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;" parent="h-vKlQ_6gasID18T72Yb-1" source="h-vKlQ_6gasID18T72Yb-183" target="h-vKlQ_6gasID18T72Yb-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TQMJ5ayRLUm0HXYJoqO-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
